@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter application.
+A basic todo app using flutter
 
 ## Getting Started
 
